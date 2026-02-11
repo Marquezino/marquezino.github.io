@@ -1,5 +1,5 @@
 baseURL = "https://marquezino.github.io/"
-title = "Franklin Marquezino"
+title = "Prof. Franklin Marquezino"
 theme = "hugo-coder"
 
 defaultContentLanguage = "en"
@@ -25,18 +25,18 @@ enableEmoji = true
 
     [languages.en.params]
       author = "Franklin Marquezino"
-      info = ["Associate Professor @ UFRJ", "Quantum Computing"]
+      info = ["Associate Professor at Federal University of Rio de Janeiro (Brazil)", "Quantum Computing Researcher"]
       description = "Personal website"
       keywords = "quantum computing, research, UFRJ"
 
   [languages.pt-br]
-    languageName = "pt-BR"
+    languageName = "pt"
     languageCode = "pt-BR"
     weight = 2
 
     [languages.pt-br.params]
       author = "Franklin Marquezino"
-      info = ["Professor @ UFRJ", "Computação Quântica"]
+      info = ["Professor Associado na Universidade Federal do Rio de Janeiro", "Pesquisador em Computação Quântica"]
       description = "Site pessoal"
       keywords = "computação quântica, pesquisa, UFRJ"
 
@@ -47,7 +47,7 @@ enableEmoji = true
 
     [languages.it.params]
       author = "Franklin Marquezino"
-      info = ["Professore @ UFRJ", "Quantum Computing"]
+      info = ["Professore Associato presso l’Universidade Federal do Rio de Janeiro (Brasile)", "Ricercatore nel campo della Computazione Quantistica"]
       description = "Sito personale"
       keywords = "quantum computing, ricerca, UFRJ"
 
@@ -76,4 +76,15 @@ enableEmoji = true
   weight = 2
   url = "https://www.linkedin.com/in/franklin-marquezino/"
 
+[[params.social]]
+  name = "ORCID"
+  icon = "fa-brands fa-orcid fa-2x"
+  weight = 3
+  url = "https://orcid.org/0000-0001-9712-1930"
+
+[[params.social]]
+  name = "ResearcherID"
+  icon = "fa-solid fa-id-badge fa-2x"
+  weight = 4
+  url = "https://www.webofscience.com/wos/author/record/F-6824-2013"
 
