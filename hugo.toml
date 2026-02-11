@@ -1,0 +1,79 @@
+baseURL = "https://marquezino.github.io/"
+title = "Franklin Marquezino"
+theme = "hugo-coder"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+enableEmoji = true
+
+[pagination]
+  pagerSize = 20
+
+
+# Recomendação do próprio guia de deploy do Hugo para GitHub Pages (cache de imagens no cacheDir)
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
+
+[languages]
+
+  [languages.en]
+    languageName = "en"
+    languageCode = "en-US"
+    weight = 1
+
+    [languages.en.params]
+      author = "Franklin Marquezino"
+      info = ["Associate Professor @ UFRJ", "Quantum Computing"]
+      description = "Personal website"
+      keywords = "quantum computing, research, UFRJ"
+
+  [languages.pt-br]
+    languageName = "pt-BR"
+    languageCode = "pt-BR"
+    weight = 2
+
+    [languages.pt-br.params]
+      author = "Franklin Marquezino"
+      info = ["Professor @ UFRJ", "Computação Quântica"]
+      description = "Site pessoal"
+      keywords = "computação quântica, pesquisa, UFRJ"
+
+  [languages.it]
+    languageName = "it"
+    languageCode = "it-IT"
+    weight = 3
+
+    [languages.it.params]
+      author = "Franklin Marquezino"
+      info = ["Professore @ UFRJ", "Quantum Computing"]
+      description = "Sito personale"
+      keywords = "quantum computing, ricerca, UFRJ"
+
+[params]
+  avatarURL = "images/avatar.jpg"
+  colorScheme = "auto"
+  hideColorSchemeToggle = false
+
+  # se quiser depois:
+  customCSS = []
+  customSCSS = []
+  customJS = []
+
+  since = 2026
+  dateFormat = "2006-01-02"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Marquezino/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/franklin-marquezino/"
+
+
