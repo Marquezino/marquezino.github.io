@@ -29,6 +29,11 @@ enableEmoji = true
       description = "Personal website"
       keywords = "quantum computing, research, UFRJ"
 
+    [[languages.en.menu.main]]
+      name = "About"
+      weight = 1
+      url = "about/"
+
   [languages.pt-br]
     languageName = "pt"
     languageCode = "pt-BR"
@@ -39,6 +44,11 @@ enableEmoji = true
       info = ["Professor Associado na Universidade Federal do Rio de Janeiro", "Pesquisador em Computação Quântica"]
       description = "Site pessoal"
       keywords = "computação quântica, pesquisa, UFRJ"
+
+    [[languages.pt-br.menu.main]]
+      name = "Sobre"
+      weight = 1
+      url = "about/"
 
   [languages.it]
     languageName = "it"
@@ -51,6 +61,11 @@ enableEmoji = true
       description = "Sito personale"
       keywords = "quantum computing, ricerca, UFRJ"
 
+    [[languages.it.menu.main]]
+      name = "Chi sono"
+      weight = 1
+      url = "about/"
+      
 [params]
   avatarURL = "images/avatar.jpg"
   colorScheme = "auto"
