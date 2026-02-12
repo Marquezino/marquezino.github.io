@@ -27,7 +27,7 @@ enableEmoji = true
       author = "Franklin Marquezino"
       info = ["Associate Professor at Federal University of Rio de Janeiro (Brazil)", "Quantum Computing Researcher"]
       description = "Personal website"
-      keywords = "quantum computing, research, UFRJ"
+      keywords = "quantum computing, quantum algorithms, quantum walks, quantum software engineering, quantum information, quantum error correction, high-performance computing, research leadership, professor, UFRJ"
 
     [[languages.en.menu.main]]
       name = "About"
@@ -43,7 +43,7 @@ enableEmoji = true
       author = "Franklin Marquezino"
       info = ["Professor Associado na Universidade Federal do Rio de Janeiro", "Pesquisador em Computação Quântica"]
       description = "Site pessoal"
-      keywords = "computação quântica, pesquisa, UFRJ"
+      keywords = "computação quântica, algoritmos quânticos, caminhadas quânticas, engenharia de software quântico, informação quântica, correção de erros quânticos, computação de alto desempenho, liderança em pesquisa, professor, UFRJ"
 
     [[languages.pt-br.menu.main]]
       name = "Sobre"
@@ -59,7 +59,7 @@ enableEmoji = true
       author = "Franklin Marquezino"
       info = ["Professore Associato presso l’Universidade Federal do Rio de Janeiro (Brasile)", "Ricercatore nel campo della Computazione Quantistica"]
       description = "Sito personale"
-      keywords = "quantum computing, ricerca, UFRJ"
+      keywords = "calcolo quantistico, algoritmi quantistici, cammini quantistici, ingegneria del software quantistico, informazione quantistica, correzione degli errori quantistici, calcolo ad alte prestazioni, leadership nella ricerca, professore, UFRJ"
 
     [[languages.it.menu.main]]
       name = "Chi sono"
@@ -108,4 +108,10 @@ enableEmoji = true
   icon = "fa-brands fa-google-scholar fa-2x"
   weight = 5
   url = "https://scholar.google.com.br/citations?hl=en&user=KeEgCSsAAAAJ"
+
+[[params.social]]
+  name = "DBLP"
+  icon = "fa-solid fa-book fa-2x"
+  weight = 6
+  url = "https://dblp.org/pid/32/7383.html"
 
