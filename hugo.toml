@@ -1,5 +1,5 @@
 baseURL = "https://marquezino.github.io/"
-title = "Prof. Franklin Marquezino"
+title = "Prof. Marquezino"
 theme = "hugo-coder"
 
 defaultContentLanguage = "en"

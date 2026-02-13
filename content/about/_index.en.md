@@ -11,3 +11,11 @@ I obtained my PhD in Computational Modeling from the National Laboratory for Sci
 Between 2024 and 2025, I held a postdoctoral research position at the Centre for Quantum Computer Science of the University of Latvia, where I collaborated on theoretical aspects of quantum computation.
 
 I am co-author of the book A Primer on Quantum Computing (Springer) and serve on the Editorial Board of Theoretical Computer Science (Track C – Natural Computing).
+
+## Personal note
+
+I am Italian–Brazilian, born and raised in Brazil.  
+I am married and the father of two children.
+
+I enjoy chess, more for the pleasure of the game than for skill. I am currently learning to play the violin, a challenge that has proven more demanding than it initially appeared, particularly having started somewhat later.
+

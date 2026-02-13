@@ -11,3 +11,10 @@ Obtive o título de Doutor em Modelagem Computacional pelo Laboratório Nacional
 Entre 2024 e 2025, realizei estágio de pós-doutorado no Centre for Quantum Computer Science da University of Latvia, com foco em aspectos teóricos da computação quântica.
 
 Sou coautor do livro A Primer on Quantum Computing (Springer) e membro do Editorial Board do periódico Theoretical Computer Science (Track C – Natural Computing).
+
+## Nota pessoal
+
+Sou ítalo-brasileiro, nascido e criado no Brasil.  
+Sou casado e pai de dois filhos.
+
+Gosto de xadrez, mais pelo prazer do jogo do que pela habilidade. Atualmente estou aprendendo a tocar violino, um desafio que se revelou mais difícil do que parecia inicialmente, especialmente por ter começado um pouco tarde.
