@@ -15,6 +15,7 @@ I am co-author of the book A Primer on Quantum Computing (Springer) and serve on
 ## Personal note
 
 I am Italian–Brazilian, born and raised in Brazil.  
+
 I am married and the father of two children.
 
 I enjoy chess, more for the pleasure of the game than for skill. I am currently learning to play the violin, a challenge that has proven more demanding than it initially appeared, particularly having started somewhat later.
