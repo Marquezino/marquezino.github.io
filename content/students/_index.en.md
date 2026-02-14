@@ -4,7 +4,7 @@ title: "Students"
 
 ## Prospective Students
 
-Admissions to the Master’s and PhD programs at COPPE/UFRJ are conducted exclusively through the official selection process available at [https://pesc.coppe.ufrj.br/selecao/?page_id=262&lang=en]. I will be glad to clarify questions by email; however, applications are not handled through direct contact with faculty members.
+Admissions to the Master’s and PhD programs at COPPE/UFRJ are conducted exclusively through the official selection process available [in the selection page](https://pesc.coppe.ufrj.br/selecao/?page_id=262&lang=en). I will be glad to clarify questions by email; however, applications are not handled through direct contact with faculty members.
 
 I am always interested in working with highly motivated students whose research interests align with my areas of study. If you apply to the PESC/COPPE graduate program and indicate your interest in conducting research in Algorithms and Combinatorics, your application may be evaluated within the regular selection process.
 
