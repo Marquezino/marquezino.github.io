@@ -15,6 +15,7 @@ Sou coautor do livro A Primer on Quantum Computing (Springer) e membro do Editor
 ## Nota pessoal
 
 Sou ítalo-brasileiro, nascido e criado no Brasil.  
+
 Sou casado e pai de dois filhos.
 
 Gosto de xadrez, mais pelo prazer do jogo do que pela habilidade. Atualmente estou aprendendo a tocar violino, um desafio que se revelou mais difícil do que parecia inicialmente, especialmente por ter começado um pouco tarde.

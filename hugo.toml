@@ -34,6 +34,11 @@ enableEmoji = true
       weight = 1
       url = "about/"
 
+    [[languages.en.menu.main]]
+      name = "Research"
+      weight = 2
+      url = "research/"
+
   [languages.pt-br]
     languageName = "pt"
     languageCode = "pt-BR"
@@ -50,6 +55,11 @@ enableEmoji = true
       weight = 1
       url = "about/"
 
+    [[languages.pt-br.menu.main]]
+      name = "Pesquisa"
+      weight = 2
+      url = "research/"
+
   [languages.it]
     languageName = "it"
     languageCode = "it-IT"
@@ -65,6 +75,11 @@ enableEmoji = true
       name = "Chi sono"
       weight = 1
       url = "about/"
+
+    [[languages.it.menu.main]]
+      name = "Ricerca"
+      weight = 2
+      url = "research/"
       
 [params]
   avatarURL = "images/avatar.jpg"
