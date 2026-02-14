@@ -39,6 +39,11 @@ enableEmoji = true
       weight = 2
       url = "research/"
 
+    [[languages.en.menu.main]]
+      name = "Students"
+      weight = 3
+      url = "students/"
+
   [languages.pt-br]
     languageName = "pt"
     languageCode = "pt-BR"
@@ -60,6 +65,11 @@ enableEmoji = true
       weight = 2
       url = "research/"
 
+    [[languages.pt-br.menu.main]]
+      name = "Alunos"
+      weight = 3
+      url = "students/"
+
   [languages.it]
     languageName = "it"
     languageCode = "it-IT"
@@ -80,6 +90,11 @@ enableEmoji = true
       name = "Ricerca"
       weight = 2
       url = "research/"
+
+    [[languages.it.menu.main]]
+      name = "Studenti"
+      weight = 3
+      url = "students/"
       
 [params]
   avatarURL = "images/avatar.jpg"
