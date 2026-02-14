@@ -12,7 +12,7 @@ Detailed information regarding procedures, requirements, and deadlines can be fo
 
 Undergraduate students interested in research activities, including Scientific Initiation projects, are welcome to contact me directly.
 
-International students should check [https://internacional.ufrj.br/en/international-relations/].
+International students should check [https://internacional.ufrj.br/en/international-relations/](https://internacional.ufrj.br/en/international-relations/).
 
 ## Postdoctoral Researchers
 

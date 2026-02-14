@@ -13,7 +13,7 @@ Informazioni dettagliate su procedure, requisiti e scadenze sono disponibili nel
 Gli studenti di laurea interessati ad attività di ricerca sono invitati a contattarmi direttamente.
 
 Gli studenti internazionali possono consultare  
-[https://internacional.ufrj.br/en/international-relations/].
+[https://internacional.ufrj.br/en/international-relations/](https://internacional.ufrj.br/en/international-relations/).
 
 
 
