@@ -1,5 +1,5 @@
 ---
-title: "Alunos"
+title: "Estudantes"
 ---
 
 ## Futuros Alunos
