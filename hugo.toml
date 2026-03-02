@@ -40,9 +40,9 @@ enableEmoji = true
       url = "research/"
 
     [[languages.en.menu.main]]
-      name = "Students"
+      name = "Supervision"
       weight = 3
-      url = "students/"
+      url = "supervision/"
 
   [languages.pt-br]
     languageName = "pt"
@@ -66,9 +66,9 @@ enableEmoji = true
       url = "research/"
 
     [[languages.pt-br.menu.main]]
-      name = "Estudantes"
+      name = "Orientação"
       weight = 3
-      url = "students/"
+      url = "supervision/"
 
   [languages.it]
     languageName = "it"
@@ -92,9 +92,9 @@ enableEmoji = true
       url = "research/"
 
     [[languages.it.menu.main]]
-      name = "Studenti"
+      name = "Supervisione"
       weight = 3
-      url = "students/"
+      url = "supervision/"
       
 [params]
   avatarURL = "images/avatar.jpg"

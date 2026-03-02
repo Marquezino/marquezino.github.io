@@ -1,5 +1,5 @@
 ---
-title: "Studenti"
+title: "Supervisione"
 ---
 
 ## Studenti Futuri
