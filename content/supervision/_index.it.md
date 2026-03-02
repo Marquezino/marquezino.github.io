@@ -2,6 +2,8 @@
 title: "Supervisione"
 ---
 
+I miei studenti possono consultare [questa pagina](advice/) per consigli generali.
+
 ## Studenti Futuri
 
 L’ammissione ai programmi di Master e PhD presso COPPE/UFRJ avviene esclusivamente attraverso il processo di selezione ufficiale disponibile [alla pagina di selezione](https://pesc.coppe.ufrj.br/selecao/?page_id=262&lang=en). Sarò lieto di chiarire eventuali domande via email; tuttavia, le candidature non sono gestite tramite contatti diretti con i docenti.

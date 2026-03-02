@@ -2,6 +2,8 @@
 title: "Orientação"
 ---
 
+Meus alunos podem consultar [esta página](advice/) para conselhos gerais.
+
 ## Futuros Alunos
 
 O ingresso nos programas de Mestrado e Doutorado da COPPE/UFRJ ocorre exclusivamente por meio do processo seletivo oficial disponível [neste link](https://www.cos.ufrj.br/selecao). Terei prazer em esclarecer dúvidas por email; no entanto, é importante observar que as candidaturas não são realizadas por contato direto com docentes.

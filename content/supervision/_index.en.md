@@ -2,6 +2,8 @@
 title: "Supervision"
 ---
 
+My students may refer to [this page](advice/) for general advice.
+
 ## Prospective Students
 
 Admissions to the Master’s and PhD programs at COPPE/UFRJ are conducted exclusively through the official selection process available [in the selection page](https://pesc.coppe.ufrj.br/selecao/?page_id=262&lang=en). I will be glad to clarify questions by email; however, applications are not handled through direct contact with faculty members.
