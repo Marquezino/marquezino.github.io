@@ -2,7 +2,7 @@
 title: "Orientação"
 ---
 
-Meus alunos podem consultar [esta página](advice/) para conselhos gerais.
+<!-- Meus alunos podem consultar [esta página](advice/) para conselhos gerais. -->
 
 ## Futuros Alunos
 

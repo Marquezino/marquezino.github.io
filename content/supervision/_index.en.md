@@ -2,7 +2,7 @@
 title: "Supervision"
 ---
 
-My students may refer to [this page](advice/) for general advice.
+<!-- My students may refer to [this page](advice/) for general advice. -->
 
 ## Prospective Students
 

@@ -2,7 +2,7 @@
 title: "Supervisione"
 ---
 
-I miei studenti possono consultare [questa pagina](advice/) per consigli generali.
+<!-- I miei studenti possono consultare [questa pagina](advice/) per consigli generali. -->
 
 ## Studenti Futuri
 
