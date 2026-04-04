@@ -8,8 +8,4 @@ Um eixo central de minha pesquisa é o estudo de algoritmos quânticos, em parti
 
 Em estreita conexão com essa linha de investigação, estudo otimização quântica e teoria da complexidade quântica, explorando como modelos computacionais quânticos redefinem noções clássicas de eficiência algorítmica, estrutura de problemas e dureza computacional. Essas investigações frequentemente recorrem a técnicas de combinatória e teoria dos grafos, refletindo os fundamentos discretos de diversos arcabouços algorítmicos quânticos.
 
-Outro componente importante de minha pesquisa envolve a simulação clássica de algoritmos quânticos. Compreender quando e como processos quânticos podem ser eficientemente aproximados ou simulados em computadores clássicos fornece insights valiosos sobre os limites da vantagem computacional quântica.
-
-De forma mais ampla, minha pesquisa é motivada por questões fundamentais acerca da computação sob restrições físicas. Nesse contexto, mantenho interesse ativo em computação reversível e em modelos relacionados que iluminam a relação entre informação, dinâmica e processos computacionais.
-
 Em perspectiva futura, tenho interesse particular na expansão de minha pesquisa para aprendizado de máquina quântico e métodos quânticos de Markov Chain Monte Carlo, áreas que se conectam naturalmente às minhas investigações sobre estrutura algorítmica, processos estocásticos e dinâmica quântica.
