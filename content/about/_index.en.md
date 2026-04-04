@@ -2,7 +2,8 @@
 title: "About"
 ---
 
-I hold a tenured position as Associate Professor at the Federal University of Rio de Janeiro (UFRJ, Brazil), the largest federal university in the country and one of Brazil’s centers of excellence in teaching and research. I am a faculty member of the Systems Engineering and Computer Science department (PESC), one of the most traditional Computer Science departments in Brazil, which is part of the Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE).
+I hold a tenured position as Associate Professor at the Federal University of Rio de Janeiro (UFRJ, Brazil), the largest federal university in the country and one of Brazil’s centers of excellence in teaching and research. I am a faculty member of the Systems Engineering and Computer Science department (PESC), one of the most traditional Computer Science departments in Brazil, which is part of the Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE). I am also a faculty member at UFRJ’s Duque de Caxias campus, where I have taught courses on the fundamentals of computing and computer programming to undergraduate students in Biotechnology and Nanotechnology.
+
 
 My research lies at the intersection of theoretical Computer Science and Discrete Mathematics, with a primary focus on quantum computing. In particular, my work aims to better understand the computational power of quantum mechanical systems, especially through the study of quantum walks, quantum algorithms, and structural aspects of quantum computation. Alongside foundational questions, I am also engaged with practical challenges of near-term quantum computing, an involvement recognized by my acceptance into the IBM Qiskit Advocates program.
 

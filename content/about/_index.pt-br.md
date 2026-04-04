@@ -2,7 +2,7 @@
 title: "Sobre"
 ---
 
-Sou Professor Associado em regime de dedicação exclusiva na Universidade Federal do Rio de Janeiro (UFRJ), a maior universidade federal do país e um dos principais centros de excelência em ensino e pesquisa no Brasil. Integro o corpo docente do Programa de Engenharia de Sistemas e Computação (PESC), um dos departamentos mais tradicionais da área de Ciência da Computação no país, vinculado ao Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia (COPPE).
+Sou Professor Associado em regime de dedicação exclusiva na Universidade Federal do Rio de Janeiro (UFRJ), a maior universidade federal do país e um dos principais centros de excelência em ensino e pesquisa no Brasil. Integro o corpo docente do Programa de Engenharia de Sistemas e Computação (PESC), um dos departamentos mais tradicionais da área de Ciência da Computação no país, vinculado ao Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia (COPPE). Também sou docente do Campus UFRJ Duque de Caxias, onde tenho lecionado disciplinas de fundamentos de computação e programação de computadores para alunos dos cursos de Biotecnologia e Nanotecnologia.
 
 Minha pesquisa situa-se na interface entre Ciência da Computação Teórica e Matemática Discreta, com foco principal em computação quântica. Em particular, meus trabalhos buscam compreender o poder computacional de sistemas físicos quânticos, com ênfase no estudo de caminhadas quânticas, algoritmos quânticos e aspectos estruturais da computação quântica. Paralelamente às questões fundamentais, também desenvolvo pesquisas relacionadas aos desafios práticos da computação quântica de curto prazo, envolvimento reconhecido pela minha participação no programa Qiskit Advocates da IBM.
 

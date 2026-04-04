@@ -2,7 +2,8 @@
 title: "Chi sono"
 ---
 
-Sono Professore Associato presso l’Universidade Federal do Rio de Janeiro (UFRJ, Brasile), la più grande università federale del paese e uno dei principali centri di eccellenza in Brasile per la didattica e la ricerca. Sono membro del corpo docente del Systems Engineering and Computer Science department (PESC), uno dei dipartimenti più tradizionali nel campo dell’informatica in Brasile, parte dell’Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE).
+Sono Professore Associato presso l’Universidade Federal do Rio de Janeiro (UFRJ, Brasile), la più grande università federale del paese e uno dei principali centri di eccellenza in Brasile per la didattica e la ricerca. Sono membro del corpo docente del Systems Engineering and Computer Science department (PESC), uno dei dipartimenti più tradizionali nel campo dell’informatica in Brasile, parte dell’Alberto Luiz Coimbra Institute for Graduate Studies and Research in Engineering (COPPE). Sono anche docente presso il campus UFRJ di Duque de Caxias, dove ho insegnato corsi di fondamenti di informatica e programmazione a studenti dei corsi di laurea in Biotecnologia e Nanotecnologia.
+
 
 La mia attività di ricerca si colloca all’intersezione tra Informatica Teorica e Matematica Discreta, con particolare enfasi sul quantum computing. I miei interessi scientifici riguardano la comprensione del potere computazionale dei sistemi quantistici, in particolare attraverso lo studio delle quantum walks, degli algoritmi quantistici e degli aspetti strutturali della computazione quantistica. Accanto alle questioni fondamentali, mi occupo anche di aspetti pratici della computazione quantistica nel breve termine, impegno riconosciuto dalla mia partecipazione al programma IBM Qiskit Advocates.
 
