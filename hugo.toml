@@ -40,8 +40,13 @@ enableEmoji = true
       url = "research/"
 
     [[languages.en.menu.main]]
-      name = "Supervision"
+      name = "Teaching"
       weight = 3
+      url = "teaching/"
+
+    [[languages.en.menu.main]]
+      name = "Supervision"
+      weight = 4
       url = "supervision/"
 
   [languages.pt-br]
@@ -66,8 +71,13 @@ enableEmoji = true
       url = "research/"
 
     [[languages.pt-br.menu.main]]
-      name = "Orientação"
+      name = "Ensino"
       weight = 3
+      url = "teaching/"
+
+    [[languages.pt-br.menu.main]]
+      name = "Orientação"
+      weight = 4
       url = "supervision/"
 
   [languages.it]
@@ -92,8 +102,13 @@ enableEmoji = true
       url = "research/"
 
     [[languages.it.menu.main]]
-      name = "Supervisione"
+      name = "Didattica"
       weight = 3
+      url = "teaching/"
+
+    [[languages.it.menu.main]]
+      name = "Supervisione"
+      weight = 4
       url = "supervision/"
       
 [params]
