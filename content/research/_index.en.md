@@ -10,4 +10,4 @@ Closely related to this line of inquiry, I study quantum optimization and quantu
 
 Looking forward, I am particularly interested in expanding my research toward quantum machine learning and quantum Markov Chain Monte Carlo methods, areas that naturally extend my ongoing investigations of algorithmic structure, stochastic processes, and quantum dynamics.
 
-
+People interested in collaboration or postdoctoral positions (with or without funding) are welcome to get in touch. My email is my first name at cos dot ufrj dot br.

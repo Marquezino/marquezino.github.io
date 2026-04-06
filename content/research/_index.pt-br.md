@@ -9,3 +9,5 @@ Um eixo central de minha pesquisa é o estudo de algoritmos quânticos, em parti
 Em estreita conexão com essa linha de investigação, estudo otimização quântica e teoria da complexidade quântica, explorando como modelos computacionais quânticos redefinem noções clássicas de eficiência algorítmica, estrutura de problemas e dureza computacional. Essas investigações frequentemente recorrem a técnicas de combinatória e teoria dos grafos, refletindo os fundamentos discretos de diversos arcabouços algorítmicos quânticos.
 
 Em perspectiva futura, tenho interesse particular na expansão de minha pesquisa para aprendizado de máquina quântico e métodos quânticos de Markov Chain Monte Carlo, áreas que se conectam naturalmente às minhas investigações sobre estrutura algorítmica, processos estocásticos e dinâmica quântica.
+
+Pessoas interessadas em colaboração ou em pós-doutorado (com ou sem bolsa) fiquem à vontade para entrar em contato. Meu email é meu primeiro nome arroba cos ponto ufrj ponto br.
